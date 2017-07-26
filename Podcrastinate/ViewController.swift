@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Podcrastinate
-//
-//  Created by Steven Taillieu on 2017-07-25.
-//  Copyright © 2017 Steven Taillieu. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
